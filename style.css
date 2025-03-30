@@ -1,7 +1,28 @@
-h1{
-    background-color: lightblue;
+.title{
+    padding: 10px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
 }
 
+.list{
+    background-color: beige;
+    padding: 0px;
+    margin: 5px;
+}
+
+.list-item, a{
+    background-color: beige;
+    padding: 5px;
+    margin: 5px;
+    position: relative;
+}
+
+h1{
+    background-color: rgb(162, 132, 132);
+}
+
+
 *{
-    background-color: cyan;
+    background-color: white(0, 0, 0);
 }
